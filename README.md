@@ -4,6 +4,16 @@ Description of out PyTorch implementation of semi-supervised Speaker Verificatio
 
 Several source code will be modified to ensure smooth operation. 
 
+# Data preperation
+Download VoxCeleb1&2
+
+https://www.robots.ox.ac.uk/~vgg/data/voxceleb/
+
+For evaluation, we used clean Vox_O trial pairs
+
+https://www.robots.ox.ac.uk/~vgg/data/voxceleb/meta/veri_test2.txt
+
+
 # Acknowledge
 In our process, we study a variety of important projects, including:
 
