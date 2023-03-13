@@ -2,7 +2,7 @@
 
 Descriptions of our PyTorch implementation are available soon.
 
-Several source code will be modified to ensure smooth operation. 
+Several source code will be update to ensure smooth operation. 
 
 # Data preperation
 Download VoxCeleb1&2
