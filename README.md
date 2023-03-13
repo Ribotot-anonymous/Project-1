@@ -1,6 +1,6 @@
 # Semi-supervised-with-DINO
 
-Description of out PyTorch implementation of semi-supervised Speaker Verification are available soon.
+Description of our PyTorch implementation of semi-supervised Speaker Verification are available soon.
 
 Several source code will be modified to ensure smooth operation. 
 
