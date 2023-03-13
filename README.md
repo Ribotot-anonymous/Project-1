@@ -17,6 +17,8 @@ https://www.robots.ox.ac.uk/~vgg/data/voxceleb/meta/veri_test2.txt
 # Acknowledge
 In our process, we study a variety of important projects, including:
 
+https://github.com/facebookresearch/dino
+
 https://github.com/clovaai/voxceleb_trainer.
 
 https://github.com/joonson/voxceleb_unsupervised.
