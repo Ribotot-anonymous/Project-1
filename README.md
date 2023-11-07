@@ -2,24 +2,15 @@
 
 Descriptions of our PyTorch implementation will upload later.
 
-## Announcement
-This GitHub account was created to comply with INTERSPEECH's double-blind regulations, and it will be relocated to a different address once the acceptance results are published.
+## Citation information
 
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Bot"
-  given-names: "Hew"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "My Research Software"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2017-12-18
-url: "https://github.com/github-linguist/linguist"
-
+@inproceedings{choi2023semidino,
+  title={Extending Self-distilled Self-supervised Learning for Semi-supervised Speaker Verification},
+  author={Jeong-Hwan Choi, Jehyun Kyung, Ju-Seok Seong, Ye-Rin Jeoung and Joon-Hyuk Chang},
+  booktitle={Proc. IEEE Workshop Autom. Speech Recognit. Understanding},
+  pages={},
+  year={2023}
+}
 
 ## Data preperation
 Download VoxCeleb1&2
