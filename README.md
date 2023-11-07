@@ -2,11 +2,11 @@
 
 Descriptions of our PyTorch implementation will upload later.
 
-## Citation information
+## Reference
 
 For more information about this project, please refer to the following paper:
 
-    @inproceedings{choi2023semidino,
+    @inproceedings{choi2023asru,
       title={Extending Self-distilled Self-supervised Learning for Semi-supervised Speaker Verification},
       author={Jeong-Hwan Choi, Jehyun Kyung, Ju-Seok Seong, Ye-Rin Jeoung and Joon-Hyuk Chang},
       booktitle={Proc. IEEE Workshop Autom. Speech Recognit. Understanding},
